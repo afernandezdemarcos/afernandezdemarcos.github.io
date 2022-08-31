@@ -1,5 +1,0 @@
-+++
-title = "Teaching"
-+++
-
-Ongoing section.

@@ -29,6 +29,10 @@ googleAnalytics = ""  # add your tracking id
     title = "GitHub"
     url = "https://github.com/afernandezdemarcos"
   [[params.socialIcons]]
+    icon = "fab fa-youtube"
+    title = "YouTube"
+    url = "https://www.youtube.com/channel/UCeounBlp-PUEcBj6-Zy83UA"
+  [[params.socialIcons]]
     icon = "fab fa-twitter"
     title = "Twitter"
     url = "https://twitter.com/AlbertoFdez2"
@@ -49,10 +53,10 @@ googleAnalytics = ""  # add your tracking id
     name = "Research"
     url = "/research"
     weight = 1
-  #[[menu.main]]
-  #  name = "Teaching"
-  #  url = "/teaching"
-  #  weight = 2
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching"
+    weight = 2
   [[menu.main]]
     name = "Contact"
     url = "/contact"
