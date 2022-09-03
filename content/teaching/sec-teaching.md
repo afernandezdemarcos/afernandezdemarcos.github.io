@@ -5,14 +5,42 @@ title = "Secondary Education"
 ## Mathematics
 
 * <a href="/teaching/math-1eso">Matemáticas 1º ESO</a>
+* <a href="/teaching/math-2eso">Matemáticas 2º ESO</a>
+* <a href="/teaching/math-3eso">Matemáticas 3º ESO</a>
+* <a href="/teaching/math-4eso">Matemáticas 4º ESO</a>
 
 ### Resources
 
-* [Pablo Beltrán-Pellicer](https://tierradenumeros.com/). Especialmente interesante su [twitter](https://twitter.com/pbeltranp), y sus artículos sobre *Enseñanza de la probabilidad*.
-* [Shell Centre](https://www.mathshell.com/). Libros sobre *Patrones y números*, y *Funciones y gráficas* son los más interesantes, aunque en el proyecto [MARS](https://www.map.mathshell.org/index.php) se pueden encontrar materiales muy interesantes para otras ramas.
-* [Actividades](https://docs.google.com/spreadsheets/d/1N7LqzVwYC8UVUWKfm4ERPJ1dqVJwRHofIAMz6mS1vvo/edit#gid=0) de Lola Morales con Desmos. Muy interesantes.
+#### Books
+
+* Editorial Síntesis: [Colección EGB](https://www.sintesis.com/matem%C3%A1ticas%3A$20cultura%20y%20aprendizaje-72) / [Colección ESO](https://www.sintesis.com/educación%20matemática%20en%20secundaria-70/)
+	* *Números y Algoritmos* (Gairín y Sancho)
+	* *El problema de la medida*
+	* *Estimación*
+	* *Azar y Probabilidad*
+* [Shell Centre](https://www.mathshell.com/). 
+	* *Patrones y números* (Bloque de números y preálgebra)
+	* *Funciones y gráficas*
+* *Matemáticas para aprender a pensar* (Vila y Callejo)
+* [Edumat](http://www.ugr.es/~jgodino/edumat-maestros)
 * [Grup Zero](https://www.grupzero.cat/). Materiales, aunque algo avanzados, abarcan múltiples ramas de la educación en matemáticas desde los problemas.
+
+#### PhD Thesis
+
+* Números enteros (Eva Cid) [pdf](https://web.archive.org/web/20210119170137/http://www.atd-tad.org/wp-content/uploads/2016/12/TESIS_EVA_CID-1.pdf) [Anexos](https://drive.google.com/file/d/0B0VFDUr_rGnYcjlSMDZfdkxscHM/view?usp=sharing)
+* Números racionales (Rafael Escolano) [pdf](https://zaguan.unizar.es/record/84666/files/TESIS-2019-167.pdf)
+* Proporcionalidad (Sergio Martínez-Juste) [pdf](https://uvadoc.uva.es/handle/10324/52863)
+
+#### Activities and blogs
+* [Mathematics Assessment Project](https://www.map.mathshell.org/index.php) se pueden encontrar materiales muy interesantes para distintas ramas.
+* [ReSOLVE](https://resolve.edu.au/teaching-resources)
+* [nrich](https://nrich.maths.org/maps/secondary)
+* [Don Steward](https://donsteward.blogspot.com)
+* [Puntmat](http://puntmat.blogspot.com)
 * [Currículo Aragón LOMLOE](https://educa.aragon.es/documents/20126/2773111/%5B02.26%5D+Matem%C3%A1ticas.pdf/db9a15af-ba0a-e11e-5c13-a7c78ce6f901?t=1661254613594). Múltiples referencias bibliográficas y propuestas de actividades SOTA.
+* [Pablo Beltrán-Pellicer](https://tierradenumeros.com/). Especialmente interesante su [twitter](https://twitter.com/pbeltranp), y sus artículos sobre *Enseñanza de la probabilidad*.
+* [Actividades](https://docs.google.com/spreadsheets/d/1N7LqzVwYC8UVUWKfm4ERPJ1dqVJwRHofIAMz6mS1vvo/edit#gid=0) de Lola Morales con Desmos. Muy interesantes.
+* [Unidad Didáctica 1º/2º](https://twitter.com/SergioMJGR/status/1233098923029471232) basada en la tesis de Escolano
 
 ### Olympiads and Tournaments
 
