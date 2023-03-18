@@ -16,8 +16,9 @@ title = "Secondary Education"
 * Editorial Síntesis: [Colección EGB](https://www.sintesis.com/matem%C3%A1ticas%3A$20cultura%20y%20aprendizaje-72) / [Colección ESO](https://www.sintesis.com/educación%20matemática%20en%20secundaria-70/)
 	* *Números y Algoritmos* (Gairín y Sancho)
 	* *El problema de la medida*
-	* *Estimación*
+	* *Estimación en el cálculo y en la medida* **¡COMPRAR!**
 	* *Azar y Probabilidad*
+	* *Aprender a enseñar matemáticas en la ESO* **RECOMENDADO EN JAEM**
 * [Shell Centre](https://www.mathshell.com/). 
 	* *Patrones y números* (Bloque de números y preálgebra)
 	* *Funciones y gráficas*
@@ -41,6 +42,9 @@ title = "Secondary Education"
 * [Pablo Beltrán-Pellicer](https://tierradenumeros.com/). Especialmente interesante su [twitter](https://twitter.com/pbeltranp), y sus artículos sobre *Enseñanza de la probabilidad*.
 * [Actividades](https://docs.google.com/spreadsheets/d/1N7LqzVwYC8UVUWKfm4ERPJ1dqVJwRHofIAMz6mS1vvo/edit#gid=0) de Lola Morales con Desmos. Muy interesantes.
 * [Unidad Didáctica 1º/2º](https://twitter.com/SergioMJGR/status/1233098923029471232) basada en la tesis de Escolano
+* Modelo de barras de Singapur [Curso de Belen Palop](https://sites.google.com/view/modelodebarras/home)
+* [Resolución de problemas de Manuel Domínguez](www.educa2.madrid.org/web/matesatulado/numeros-naturales)
+* [Cálculo mental](http://docentes.educacion.navarra.es/jjimenei/index.html)
 
 ### Olympiads and Tournaments
 

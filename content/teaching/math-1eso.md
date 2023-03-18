@@ -26,6 +26,9 @@ title = "Matemáticas 1º ESO"
 - Estrategias de cálculo mental con naturales.
 - Jerarquía de las operaciones. Interpretación de las operaciones.
 	- Jugar con los paréntesis y replicar distintas situaciones de la vida real. El orden refuerza el sentido de operador de suma o resta.
+	- El problema de los cuatro cuatros.
+	- Descomposición en suma de un número que maximiza el producto de dicha descomposición.
+	- [Problema de combinadas](/problema_combinadas_1eso.jpg)
 - Relaciones inversas entre operaciones.
 	- Conexión con el punto anterior.
 - Potencias de exponente entero.
@@ -39,6 +42,7 @@ title = "Matemáticas 1º ESO"
 
 - Conexión decimal-fraccionario
 	- [Tortilla de patatas](https://www.tierradenumeros.com/post/hilo-conexion-decimal-fraccion-tortillas-unpacked/)
+	- [Número de decimales](https://twitter.com/smaccarrone/status/1636353759281307649?s=20)
 - Cuadrados perfectos y raíces cuadradas exactas.
 - Factores, múltiplos y divisores. Factorización de números primos.
 	- Descomposición en línea. (Buscar los divisores de números, y dejar que surjan diferentes estrategias)
