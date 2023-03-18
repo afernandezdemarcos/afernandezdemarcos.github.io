@@ -1,8 +1,5 @@
 name: github pages
 
-runs:
-  using: 'node16'
-
 on:
   push:
     branches:
@@ -12,6 +9,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-20.04
+    using: 'node16'
     steps:
       - uses: actions/checkout@v2
         with:
