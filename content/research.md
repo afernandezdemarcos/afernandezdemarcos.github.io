@@ -7,7 +7,7 @@ math = true
 
 My research is focused on **directional statistics**, a field of statistics where data supports are different than the Euclidean, in particular the hypersphere 
 {{< math>}}
-\mathbb{S}^q:=\{\mathbf{x}\in \mathbb{R}^{p}:\|\mathbf{x}\|= 1\}.
+\mathbb{S}^q:=\{\mathbf{x}\in \mathbb{R}^{q+1}:\|\mathbf{x}\|= 1\}, q\geq 1.
 {{< /math>}}
 My PhD research, advised by <a href="https://egarpor.github.io/" target="_blank">Eduardo García-Portugués</a>, aims to develop one- and two-samples tests of uniformity on the hypersphere.
 
