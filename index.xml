@@ -148,7 +148,7 @@
 &lt;p>My research is focused on &lt;strong>directional statistics&lt;/strong>, a field of statistics where data supports are different than the Euclidean, in particular the hypersphere
 
  $$
- \mathbb{S}^q:=\{\mathbf{x}\in \mathbb{R}^{p}:\|\mathbf{x}\|= 1\}.$$
+ \mathbb{S}^q:=\{\mathbf{x}\in \mathbb{R}^{q&amp;#43;1}:\|\mathbf{x}\|= 1\}, q\geq 1.$$
 
 
 My PhD research, advised by &lt;a href="https://egarpor.github.io/" target="_blank">Eduardo García-Portugués&lt;/a>, aims to develop one- and two-samples tests of uniformity on the hypersphere.&lt;/p>
