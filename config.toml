@@ -1,6 +1,6 @@
 title = "Alberto Fernández-de-Marcos"
 baseURL = "https://afernandezdemarcos.github.io"
-theme = "researcher2"
+theme = "researcher_mine"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
