@@ -7,3 +7,6 @@
 [submodule "themes/researcher_mine"]
 	path = themes/researcher_mine
 	url = https://github.com/afernandezdemarcos/hugo-researcher.git
+[submodule "themes/researcher_mine2"]
+	path = themes/researcher_mine2
+	url = https://github.com/afernandezdemarcos/hugo-researcher.git
