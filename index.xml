@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alberto Fernández-de-Marcos</title><link>https://afernandezdemarcos.github.io/</link><description>Recent content on Alberto Fernández-de-Marcos</description><generator>Hugo</generator><language>en</language><atom:link href="https://afernandezdemarcos.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://afernandezdemarcos.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afernandezdemarcos.github.io/contact/</guid><description>&lt;p>For any research-related discussion, feel free to contact me via &lt;a href="mailto:albertfe@est-econ.uc3m.es">albertfe@est-econ.uc3m.es&lt;/a>&lt;/p></description></item><item><title>Matemáticas 1º ESO</title><link>https://afernandezdemarcos.github.io/teaching/math-1eso/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afernandezdemarcos.github.io/teaching/math-1eso/</guid><description>&lt;p>&lt;a href="https://afernandezdemarcos.github.io/teaching/sec-teaching">&lt;svg width="1.5em" height="1.5em" viewBox="0 0 22 22" class="bi bi-file-earmark-person-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">&lt;path d="M3.24,7.51c-0.146,0.142-0.146,0.381,0,0.523l5.199,5.193c0.234,0.238,0.633,0.064,0.633-0.262v-2.634c0.105-0.007,0.212-0.011,0.321-0.011c2.373,0,4.302,1.91,4.302,4.258c0,0.957-0.33,1.809-1.008,2.602c-0.259,0.307,0.084,0.762,0.451,0.572c2.336-1.195,3.73-3.408,3.73-5.924c0-3.741-3.103-6.783-6.916-6.783c-0.307,0-0.615,0.028-0.881,0.063V2.575c0-0.327-0.398-0.5-0.633-0.261L3.24,7.51 M4.027,7.771l4.301-4.3v2.073c0,0.232,0.21,0.409,0.441,0.366c0.298-0.056,0.746-0.123,1.184-0.123c3.402,0,6.172,2.709,6.172,6.041c0,1.695-0.718,3.24-1.979,4.352c0.193-0.51,0.293-1.045,0.293-1.602c0-2.76-2.266-5-5.046-5c-0.256,0-0.528,0.018-0.747,0.05C8.465,9.653,8.328,9.81,8.328,9.995v2.074L4.027,7.771z">&lt;/path>&lt;/svg>Back to Secondary Education.&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alberto Fernández-de-Marcos</title><link>https://afernandezdemarcos.github.io/</link><description>Recent content on Alberto Fernández-de-Marcos</description><generator>Hugo</generator><language>en</language><atom:link href="https://afernandezdemarcos.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>BSc Math</title><link>https://afernandezdemarcos.github.io/math/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afernandezdemarcos.github.io/math/</guid><description>&lt;h2 id="first-year">First year&lt;/h2>
+&lt;h3 id="lenguaje-matemático-conjuntos-y-números">Lenguaje Matemático, Conjuntos y Números&lt;/h3>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Tema&lt;/th>
+ &lt;th style="text-align: left">Apuntes&lt;/th>
+ &lt;th style="text-align: left">Problemas&lt;/th>
+ &lt;th style="text-align: left">Capítulos ref.&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">1&lt;/td>
+ &lt;td style="text-align: left">&lt;a href="https://drive.google.com/file/d/1xP54XmwVODxb35D40MAR8Evn_ZxfbTml/view?usp=drive_link" target="_blank">Lógica&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">&lt;a href="https://drive.google.com/file/d/1fwAt7_KXgk7IXBsx5FyIh8oCAO7IAqtz/view?usp=drive_link" target="_blank">Problemas&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Ch1 [1]&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">2&lt;/td>
+ &lt;td style="text-align: left">&lt;a href="https://drive.google.com/file/d/139OjosEXU1lIBBZASTgoQLkOgSOBAONc/view?usp=drive_link" target="_blank">Conjuntos&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">&lt;a href="https://drive.google.com/file/d/1PiKGx4DmKc2E_ibqTbNkv4XIxurBYZN_/view?usp=drive_link" target="_blank">Problemas&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Ch2 [1], Ch3 [2]&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">3&lt;/td>
+ &lt;td style="text-align: left">&lt;a href="https://drive.google.com/file/d/1k1PhTcEpQKnU0_4HqpkPKWxzXu3nzq_F/view?usp=drive_link" target="_blank">Relaciones (I)&lt;/a>, &lt;a href="https://drive.google.com/file/d/1vkv7-XjqCUB6NgXZFvEfimytX4ginumX/view?usp=drive_link" target="_blank">(II)&lt;/a>, &lt;a href="https://drive.google.com/file/d/1jqTugT_EVEdAdQ7VGYkqAa9sYIxS9PVr/view?usp=drive_link" target="_blank">Aplicaciones&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Ch3 [1], Ch3 [2]&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">4&lt;/td>
+ &lt;td style="text-align: left">&lt;a href="https://drive.google.com/file/d/1ULtls3GzJLhfdHaUemJnVnIGE-kauFPT/view?usp=drive_link" target="_blank">Estructuras algebraicas&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Ch4 [1]&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">5&lt;/td>
+ &lt;td style="text-align: left">N, &lt;a href="https://drive.google.com/file/d/13I4ozBnJHww7J8yrN8_zA8tKNQ3w8Py6/view?usp=drive_link" target="_blank">Z&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">&lt;a href="https://drive.google.com/file/d/1CCVdODgvL_xw9uasBl-FANbsNMcn1yyP/view?usp=drive_link" target="_blank">Problemas&lt;/a>&lt;/td>
+ &lt;td style="text-align: left">Ch5 [1], Ch2,4 [2]&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">6&lt;/td>
+ &lt;td style="text-align: left">Q, R&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Ch6 [1], Ch4 [2]&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">7&lt;/td>
+ &lt;td style="text-align: left">C&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">Ch7 [1]&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>Bibliografía&lt;/strong>&lt;/p>
+&lt;ol>
+&lt;li>Delgado Pineda, M. y Muñoz Bouzo, M.J. Lenguaje matemático, conjuntos y números.&lt;/li>
+&lt;li>Tao, T. Analysis I.&lt;/li>
+&lt;/ol></description></item><item><title>Contact</title><link>https://afernandezdemarcos.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afernandezdemarcos.github.io/contact/</guid><description>&lt;p>For any research-related discussion, feel free to contact me via &lt;a href="mailto:albertfe@est-econ.uc3m.es">albertfe@est-econ.uc3m.es&lt;/a>&lt;/p></description></item><item><title>Matemáticas 1º ESO</title><link>https://afernandezdemarcos.github.io/teaching/math-1eso/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afernandezdemarcos.github.io/teaching/math-1eso/</guid><description>&lt;p>&lt;a href="https://afernandezdemarcos.github.io/teaching/sec-teaching">&lt;svg width="1.5em" height="1.5em" viewBox="0 0 22 22" class="bi bi-file-earmark-person-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">&lt;path d="M3.24,7.51c-0.146,0.142-0.146,0.381,0,0.523l5.199,5.193c0.234,0.238,0.633,0.064,0.633-0.262v-2.634c0.105-0.007,0.212-0.011,0.321-0.011c2.373,0,4.302,1.91,4.302,4.258c0,0.957-0.33,1.809-1.008,2.602c-0.259,0.307,0.084,0.762,0.451,0.572c2.336-1.195,3.73-3.408,3.73-5.924c0-3.741-3.103-6.783-6.916-6.783c-0.307,0-0.615,0.028-0.881,0.063V2.575c0-0.327-0.398-0.5-0.633-0.261L3.24,7.51 M4.027,7.771l4.301-4.3v2.073c0,0.232,0.21,0.409,0.441,0.366c0.298-0.056,0.746-0.123,1.184-0.123c3.402,0,6.172,2.709,6.172,6.041c0,1.695-0.718,3.24-1.979,4.352c0.193-0.51,0.293-1.045,0.293-1.602c0-2.76-2.266-5-5.046-5c-0.256,0-0.528,0.018-0.747,0.05C8.465,9.653,8.328,9.81,8.328,9.995v2.074L4.027,7.771z">&lt;/path>&lt;/svg>Back to Secondary Education.&lt;/a>&lt;/p>
 &lt;h1 id="matemáticas---1º-eso">Matemáticas - 1º ESO&lt;/h1>
 &lt;h2 id="b1-números-y-operaciones">(B1) Números y operaciones&lt;/h2>
 &lt;h3 id="conteo">Conteo&lt;/h3>
@@ -241,7 +301,8 @@ My PhD research, advised by &lt;a href="https://egarpor.github.io/" target="_bla
 &lt;ul>
 &lt;li>&lt;a href="https://afernandezdemarcos.github.io/teaching/sec-teaching">Secondary Education&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://afernandezdemarcos.github.io/teaching/bsc-teaching">Undergraduate Teaching&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Undergraduate Teaching</title><link>https://afernandezdemarcos.github.io/teaching/bsc-teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afernandezdemarcos.github.io/teaching/bsc-teaching/</guid><description>&lt;h2 id="undergraduate-teaching">Undergraduate Teaching&lt;/h2>
+&lt;/ul>
+&lt;p>Some &lt;a href="https://afernandezdemarcos.github.io/math">notes&lt;/a> of Math BSc.&lt;/p></description></item><item><title>Undergraduate Teaching</title><link>https://afernandezdemarcos.github.io/teaching/bsc-teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://afernandezdemarcos.github.io/teaching/bsc-teaching/</guid><description>&lt;h2 id="undergraduate-teaching">Undergraduate Teaching&lt;/h2>
 &lt;h3 id="past-teaching">Past Teaching&lt;/h3>
 &lt;ul>
 &lt;li>Statistical Learning [2021-22] (BSc Management and Technology)&lt;/li>
