@@ -20,3 +20,39 @@ Tema | Apuntes | Problemas | Capítulos ref.
 
 1. Delgado Pineda, M. y Muñoz Bouzo, M.J. Lenguaje matemático, conjuntos y números.
 2. Tao, T. Analysis I.
+
+### Análisis Real I
+
+Tema | Apuntes | Problemas | Capítulos ref.
+-----|---------|--------|------------
+1 | <a href="" target="_blank"> R </a> | <a href="" target="_blank">Problemas</a> | 
+2 | <a href="" target="_blank"> Sucesiones </a> | <a href="" target="_blank">Problemas</a> | 
+3 | <a href="" target="_blank"> Series </a> | <a href="" target="_blank">Problemas</a> | 
+4 | <a href="" target="_blank"> Topología en R </a> | <a href="" target="_blank">Problemas</a> | 
+5 | <a href="" target="_blank"> Límites y continuidad de funciones </a> | <a href="" target="_blank">Problemas</a> | 
+6 | <a href="" target="_blank"> Derivabilidad de funciones </a> | <a href="" target="_blank">Problemas</a> | 
+
+**Bibliografía**
+1. Abbott, S. Understanding Analysis.
+2. Tao, T. Analysis I.
+3. Cummings, J. Real Analysis.
+4. Ross, K. A. Elementary Analysis
+
+### Análisis Real II
+
+Tema | Apuntes | Problemas | Capítulos ref.
+-----|---------|--------|------------
+1 | <a href="" target="_blank"> Integral de Riemann </a> | <a href="" target="_blank">Problemas</a> | 
+2 | <a href="" target="_blank"> Sucesiones de funciones </a> | <a href="" target="_blank">Problemas</a> | 
+3 | <a href="" target="_blank"> Series de funciones </a> | <a href="" target="_blank">Problemas</a> | 
+4 | <a href="" target="_blank"> Series de potencias </a> | <a href="" target="_blank">Problemas</a> | 
+
+**Bibliografía**
+
+### Análisis Real en Varias Variables I
+
+Tema | Apuntes | Problemas | Capítulos ref.
+-----|---------|--------|------------
+1 | <a href="" target="_blank"> Cálculo en varias variables </a> | <a href="" target="_blank">Problemas</a> | 
+
+**Bibliografía**
