@@ -19,7 +19,7 @@ Tema | Apuntes | Problemas | Capítulos ref.
 **Bibliografía**
 
 1. Delgado Pineda, M. y Muñoz Bouzo, M.J. *Lenguaje matemático, conjuntos y números* (2nd ed.). Sanz y Torres.
-2. Tao, T. *Analysis I* (4th ed.). Springer Singapore. https://doi.org/:10.1007/978-981-19-7261-4.
+2. Tao, T. *Analysis I* (4th ed.). Springer Singapore. [DOI](https://doi.org/10.1007/978-981-19-7261-4).
 
 ### Análisis Real I
 
@@ -33,10 +33,10 @@ Tema | Apuntes | Problemas | Capítulos ref.
 6 | <a href="" target="_blank"> Derivabilidad de funciones </a> | <a href="" target="_blank">Problemas</a> | 
 
 **Bibliografía**
-1. Abbott, S. *Understanding Analysis* (2nd ed.). Springer New York, NY. https://doi.org/10.1007/978-1-4939-2712-8.
-2. Tao, T. *Analysis I* (4th ed.). Springer Singapore. https://doi.org/:10.1007/978-981-19-7261-4.
-3. Cummings, J. *Real Analysis: A Long-Form Mathematics Textbook* (2nd ed.). Independently published. https://longformmath.com/analysis-home.
-4. Ross, K. A. *Elementary Analysis. The Theory of Calculus* (2nd ed.). Springer New York, NY. https://doi.org/10.1007/978-1-4614-6271-2.
+1. Abbott, S. *Understanding Analysis* (2nd ed.). Springer New York, NY. [DOI](https://doi.org/10.1007/978-1-4939-2712-8).
+2. Tao, T. *Analysis I* (4th ed.). Springer Singapore. [DOI](https://doi.org/10.1007/978-981-19-7261-4).
+3. Cummings, J. *Real Analysis: A Long-Form Mathematics Textbook* (2nd ed.). Independently published. [DOI](https://longformmath.com/analysis-home).
+4. Ross, K. A. *Elementary Analysis. The Theory of Calculus* (2nd ed.). Springer New York, NY. [DOI](https://doi.org/10.1007/978-1-4614-6271-2).
 
 ### Análisis Real II
 
@@ -50,9 +50,9 @@ Tema | Apuntes | Problemas | Capítulos ref.
 6 | <a href="" target="_blank"> Series de potencias </a> | <a href="" target="_blank">Problemas</a> | 
 
 **Bibliografía**
-1. Tao, T. *Analysis I* (4th ed.). Springer Singapore. https://doi.org/:10.1007/978-981-19-7261-4.
-2. Tao, T. *Analysis II* (4th ed.). Springer Singapore. https://doi.org/:10.1007/978-981-19-7261-4.
-3. Cummings, J. *Real Analysis: A Long-Form Mathematics Textbook* (2nd ed.). Independently published. https://longformmath.com/analysis-home.
+1. Tao, T. *Analysis I* (4th ed.). Springer Singapore. [DOI](https://doi.org/10.1007/978-981-19-7261-4).
+2. Tao, T. *Analysis II* (4th ed.). Springer Singapore. [DOI](https://doi.org/10.1007/978-981-19-7284-3).
+3. Cummings, J. *Real Analysis: A Long-Form Mathematics Textbook* (2nd ed.). Independently published. [DOI](https://longformmath.com/analysis-home).
 4. Apostol, T. *Mathematical Analysis* (2nd ed.). Pearson.
 
 ### Análisis Real en Varias Variables (I, II)
@@ -64,5 +64,5 @@ Tema | Apuntes | Problemas | Capítulos ref.
 2 | <a href="" target="_blank"> Integración de Lebesgue </a> | <a href="" target="_blank">Problemas</a> | 
 
 **Bibliografía**
-1. Tao, T. *Analysis II* (4th ed.). Springer Singapore. https://doi.org/:10.1007/978-981-19-7261-4.
+1. Tao, T. *Analysis II* (4th ed.). Springer Singapore. [DOI](https://doi.org/10.1007/978-981-19-7284-3).
 2. Apostol, T. *Mathematical Analysis* (2nd ed.). Pearson.
