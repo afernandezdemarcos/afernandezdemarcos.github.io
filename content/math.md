@@ -20,7 +20,7 @@ Tema | Apuntes | Problemas | Capítulos ref.
 
 1. Delgado Pineda, M. y Muñoz Bouzo, M.J. *Lenguaje matemático, conjuntos y números* (2nd ed.). Sanz y Torres.
 2. Tao, T. *Analysis I* (4th ed.). Springer Singapore. [DOI](https://doi.org/10.1007/978-981-19-7261-4).
-3. Cummings, J. *Proofs: A Long-Form Mathematics Textbook* (2nd ed.). Independently published. [DOI](https://longformmath.com/proofs-home).
+3. Cummings, J. *Proofs: A Long-Form Mathematics Textbook* (1st ed.). Independently published. [DOI](https://longformmath.com/proofs-home).
 
 ### Análisis Real I
 
