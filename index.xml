@@ -14,19 +14,19 @@
  &lt;td>1&lt;/td>
  &lt;td>&lt;a href="https://drive.google.com/file/d/1xP54XmwVODxb35D40MAR8Evn_ZxfbTml/view?usp=drive_link" target="_blank">Lógica&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://drive.google.com/file/d/1fwAt7_KXgk7IXBsx5FyIh8oCAO7IAqtz/view?usp=drive_link" target="_blank">Problemas&lt;/a>&lt;/td>
- &lt;td>Ch1 [1]&lt;/td>
+ &lt;td>Ch1 [1], Ch1,2,5,6,7 [3]&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>2&lt;/td>
  &lt;td>&lt;a href="https://drive.google.com/file/d/139OjosEXU1lIBBZASTgoQLkOgSOBAONc/view?usp=drive_link" target="_blank">Conjuntos&lt;/a>&lt;/td>
  &lt;td>&lt;a href="https://drive.google.com/file/d/1PiKGx4DmKc2E_ibqTbNkv4XIxurBYZN_/view?usp=drive_link" target="_blank">Problemas&lt;/a>&lt;/td>
- &lt;td>Ch2 [1], Ch3 [2]&lt;/td>
+ &lt;td>Ch2 [1], Ch3 [2], Ch3 [3]&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>3&lt;/td>
  &lt;td>&lt;a href="https://drive.google.com/file/d/1k1PhTcEpQKnU0_4HqpkPKWxzXu3nzq_F/view?usp=drive_link" target="_blank">Relaciones (I)&lt;/a>, &lt;a href="https://drive.google.com/file/d/1vkv7-XjqCUB6NgXZFvEfimytX4ginumX/view?usp=drive_link" target="_blank">(II)&lt;/a>, &lt;a href="https://drive.google.com/file/d/1jqTugT_EVEdAdQ7VGYkqAa9sYIxS9PVr/view?usp=drive_link" target="_blank">Aplicaciones&lt;/a>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>Ch3 [1], Ch3 [2]&lt;/td>
+ &lt;td>Ch3 [1], Ch3 [2], Ch8,9 [3]&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>4&lt;/td>
@@ -58,6 +58,7 @@
 &lt;ol>
 &lt;li>Delgado Pineda, M. y Muñoz Bouzo, M.J. &lt;em>Lenguaje matemático, conjuntos y números&lt;/em> (2nd ed.). Sanz y Torres.&lt;/li>
 &lt;li>Tao, T. &lt;em>Analysis I&lt;/em> (4th ed.). Springer Singapore. &lt;a href="https://doi.org/10.1007/978-981-19-7261-4">DOI&lt;/a>.&lt;/li>
+&lt;li>Cummings, J. &lt;em>Proofs: A Long-Form Mathematics Textbook&lt;/em> (2nd ed.). Independently published. &lt;a href="https://longformmath.com/proofs-home">DOI&lt;/a>.&lt;/li>
 &lt;/ol>
 &lt;h3 id="análisis-real-i">Análisis Real I&lt;/h3>
 &lt;table>
