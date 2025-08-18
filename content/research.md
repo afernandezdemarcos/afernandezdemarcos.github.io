@@ -1,6 +1,5 @@
 +++
 title = "Research"
-math = true
 +++
 
 ## Research Interest

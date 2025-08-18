@@ -10,7 +10,7 @@ My *probably outdated* <a href="/resume.pdf" target="_blank"><svg width="1em" he
 
 Year | Position | Company
 -----|-------|--------
-2024-(2026) | Predoctoral Researcher (PIPF CAM) | Carlos III University of Madrid
+2024-(2027) | Predoctoral Researcher (PIPF CAM) | Carlos III University of Madrid
 2023-2024 | Secondary Ed. Teacher | I.E.S. Juan de Mairena/ I.E.S. San Isidro (Madrid)
 2021-2023 | Secondary Ed. Teacher | Colegio Nazaret Oporto (Madrid)
 2019-2020 | Data Scientist | Boston Consulting Group (GAMMA)
