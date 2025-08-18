@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/teaching/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/math/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/teaching/math-1eso/</loc>
+  </url><url>
+    <loc>http://localhost:1313/research/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resume/</loc>
+  </url><url>
+    <loc>http://localhost:1313/teaching/sec-teaching/</loc>
+  </url><url>
+    <loc>http://localhost:1313/teaching/main/</loc>
+  </url><url>
+    <loc>http://localhost:1313/teaching/bsc-teaching/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,71 @@
+title = "Alberto Fernández-de-Marcos"
+baseURL = "https://afernandezdemarcos.github.io"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+
+[services]
+  [services.googleAnalytics]
+    id = ""  # add your tracking id
+
+[params]
+  math = true          # enable KaTeX (https://katex.org/) globally
+  author = "Alberto Fernández-de-Marcos"
+  description = "Personal site."
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+    text = "By Alberto Fernández-de-Marcos"
+    url = "https://afernandezdemarcos.github.io"
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    fontSize = "12pt"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "mailto:albertfe@est-econ.uc3m.es"
+  [[params.socialIcons]]
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/afernandezdemarcos"
+  [[params.socialIcons]]
+    icon = "fab fa-youtube"
+    title = "YouTube"
+    url = "https://www.youtube.com/channel/UCeounBlp-PUEcBj6-Zy83UA"
+  [[params.socialIcons]]
+    icon = "fab fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/AlbertoFdez2"
+  [[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "Linkedin"
+    url = "https://www.linkedin.com/in/alberto-fernandez-de-marcos-gimenez-galanes"
+  [[params.socialIcons]]
+    icon = "fab fa-goodreads"
+    title = "Goodreads"
+    url = "https://goodreads.com/user/show/112186719-alberto-fernandez-de-marcos"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Research"
+    url = "/research"
+    weight = 1
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/main"
+    weight = 2
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
