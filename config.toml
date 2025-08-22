@@ -51,7 +51,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
     url = "https://goodreads.com/user/show/112186719-alberto-fernandez-de-marcos"
 
 [permalinks]
-  "/" = "/:contentbasename"
+  "/" = "/:filename"
 
 [menu]
   [[menu.main]]
