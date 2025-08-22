@@ -14,6 +14,7 @@ title = "Books"
 ### Essay 
 1. *La rebelión de las masas*. Ortega y Gasset.
 1. *La conquista de la felicidad*. Bertrand Russell.
+1. *The Alignment Problem* Brian Christian.
 
 ### History
 1. *República Española y Guerra Civil.* Gabriel Jackson.
