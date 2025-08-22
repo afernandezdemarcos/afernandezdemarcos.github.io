@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Fernández-de-Marcos</title>
+    <link>http://localhost:1313/personal/</link>
+    <description>Recent content on Alberto Fernández-de-Marcos</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/personal/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/personal/reading/</guid>
+      <description>&lt;h2 id=&#34;want-to-read&#34;&gt;Want to read&lt;/h2&gt;&#xA;&lt;h3 id=&#34;theater&#34;&gt;Theater&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;em&gt;Los posesos&lt;/em&gt;. Albert Camus.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;narrative&#34;&gt;Narrative&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;em&gt;El extranjero&lt;/em&gt;. Albert Camus.&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Crimen y castigo&lt;/em&gt;. Fiódor Dostoyevski.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;essay&#34;&gt;Essay&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;em&gt;La rebelión de las masas&lt;/em&gt;. Ortega y Gasset.&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;La conquista de la felicidad&lt;/em&gt;. Bertrand Russell.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;history&#34;&gt;History&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;em&gt;República Española y Guerra Civil.&lt;/em&gt; Gabriel Jackson.&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Dominion&lt;/em&gt;. Tom Holland&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;Guns, germs and steel&lt;/em&gt;. Jared Diamond.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;science&#34;&gt;Science&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>
