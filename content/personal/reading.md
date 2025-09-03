@@ -10,6 +10,7 @@ title = "Books"
 ### Narrative
 1. *El extranjero*. Albert Camus.
 1. *Crimen y castigo*. Fiódor Dostoyevski.
+1. [x] *El lazarillo de Tormes*. Anónimo.
 
 ### Essay 
 1. *La rebelión de las masas*. Ortega y Gasset.
@@ -17,7 +18,7 @@ title = "Books"
 1. *The Alignment Problem* Brian Christian.
 
 ### History
-1. *República Española y Guerra Civil.* Gabriel Jackson.
+1. [x] *República Española y Guerra Civil.* Gabriel Jackson.
 1. *Dominion*. Tom Holland
 1. *Guns, germs and steel*. Jared Diamond.
 

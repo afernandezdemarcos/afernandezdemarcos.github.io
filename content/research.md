@@ -19,7 +19,7 @@ Other of my interests include $p$-value combination methods and asymptotic theor
 1. Fernández-de-Marcos, A., and García-Portugués, E. (2023). Data-driven stabilizations of goodness-of-fit tests. *Comput. Stat. Data. Anal.*&nbsp;**179**, 107653. [<a href="https://doi.org/10.1016/j.csda.2022.107653" target="_blank">doi</a>] [<a href="https://arxiv.org/pdf/2112.01808.pdf" target="_blank">pdf</a>]
 
 ### Preprints
-1. Fernández-de-Marcos, A., García-Portugués, E., and Verdebout, T. (2024). On $m$-points uniformity tests on hyperspheres.
+1. Fernández-de-Marcos, A., García-Portugués, E., and Verdebout, T. (2024). On $m$-points uniformity tests on hyperspheres. *Submitted* [<a href="/m_points.pdf" target="_blank">pdf</a>]
 
 ### Undergraduate
 1. Rodríguez-Sanz, A., Fernández-de-Marcos, A., Pérez-Castán, J., Gómez Comendador, F., Arnaldo Valdés, R., and París Loreiro, A. (2021). Queue behavioural patterns for passengers at airport terminals: A machine learning approach. *J. Air Transp. Manag.*&nbsp;**90**, 101940. [<a href="https://doi.org/10.1016/j.jairtraman.2020.101940" target="_blank">doi</a>]
