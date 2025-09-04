@@ -2,28 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://afernandezdemarcos.github.io/personal/</loc>
+    <loc>http://localhost:1313/personal/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/personal/reading/</loc>
+    <loc>http://localhost:1313/personal/reading/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/math/</loc>
+    <loc>http://localhost:1313/math/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/teaching/math-1eso/</loc>
+    <loc>http://localhost:1313/teaching/math-1eso/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/resume/</loc>
+    <loc>http://localhost:1313/resume/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/teaching/sec-teaching/</loc>
+    <loc>http://localhost:1313/teaching/sec-teaching/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/teaching/main/</loc>
+    <loc>http://localhost:1313/teaching/main/</loc>
   </url><url>
-    <loc>https://afernandezdemarcos.github.io/teaching/bsc-teaching/</loc>
+    <loc>http://localhost:1313/adista25/</loc>
+  </url><url>
+    <loc>http://localhost:1313/teaching/bsc-teaching/</loc>
   </url>
 </urlset>
