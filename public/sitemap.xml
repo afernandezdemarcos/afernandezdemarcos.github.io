@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/teaching/</loc>
   </url><url>
+    <loc>http://localhost:1313/adista25/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/personal/reading/</loc>
@@ -23,8 +25,6 @@
     <loc>http://localhost:1313/teaching/sec-teaching/</loc>
   </url><url>
     <loc>http://localhost:1313/teaching/main/</loc>
-  </url><url>
-    <loc>http://localhost:1313/adista25/</loc>
   </url><url>
     <loc>http://localhost:1313/teaching/bsc-teaching/</loc>
   </url>
