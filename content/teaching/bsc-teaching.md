@@ -8,7 +8,7 @@ title = "Undergraduate Teaching"
 Subject | BSc | Term
 --------|-----|------
 Predictive Modeling | Data Science and Engineering | 2
-Statistics | Industrial Electronics and Automation Engineering | 2
+Statistics | Mechanical Engineering | 2
 
 ### Past Teaching
 
