@@ -26,14 +26,21 @@
       <link>http://localhost:1313/teaching/main/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/main/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/teaching/sec-teaching&#34;&gt;Secondary Education&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/teaching/bsc-teaching&#34;&gt;Undergraduate Teaching&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Some &lt;a href=&#34;http://localhost:1313/math&#34;&gt;notes&lt;/a&gt; of Math BSc.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/teaching/bsc-teaching&#34;&gt;Undergraduate Teaching&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/teaching/thesis&#34;&gt;BSc/MSc Thesis Proposals&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Some &lt;a href=&#34;http://localhost:1313/math&#34;&gt;notes&lt;/a&gt; of Math BSc.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/teaching/sec-teaching&#34;&gt;Secondary Education&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Thesis Proposals</title>
+      <link>http://localhost:1313/teaching/thesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/thesis/</guid>
+      <description>&lt;h2 id=&#34;master-thesis-proposals&#34;&gt;Master Thesis Proposals&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/thesis/pcct.pdf&#34;&gt;Benchmarking state-of-the-art $p$-value aggregation methods&lt;/a&gt; (with Eduardo García Portugués)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Undergraduate Teaching</title>
       <link>http://localhost:1313/teaching/bsc-teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/bsc-teaching/</guid>
-      <description>&lt;h2 id=&#34;undergraduate-teaching&#34;&gt;Undergraduate Teaching&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[(2nd) 2025-26]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;past-teaching&#34;&gt;Past Teaching&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Statistical Learning [(1st) 2021-22] (BSc Management and Technology)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;undergraduate-teaching&#34;&gt;Undergraduate Teaching&lt;/h2&gt;&#xA;&lt;h3 id=&#34;2025-26&#34;&gt;2025-26&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Subject&lt;/th&gt;&#xA;          &lt;th&gt;BSc&lt;/th&gt;&#xA;          &lt;th&gt;Term&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Predictive Modeling&lt;/td&gt;&#xA;          &lt;td&gt;Data Science and Engineering &lt;/td&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Statistics&lt;/td&gt;&#xA;          &lt;td&gt;Industrial Electronics and Automation Engineering&lt;/td&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;past-teaching&#34;&gt;Past Teaching&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Subject&lt;/th&gt;&#xA;          &lt;th&gt;BSc&lt;/th&gt;&#xA;          &lt;th&gt;Year&lt;/th&gt;&#xA;          &lt;th&gt; Term&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Statistical Learning &lt;/td&gt;&#xA;          &lt;td&gt;Management and Technology&lt;/td&gt;&#xA;          &lt;td&gt; 21-22&lt;/td&gt;&#xA;          &lt;td&gt; 1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

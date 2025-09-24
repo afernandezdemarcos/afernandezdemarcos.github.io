@@ -4,8 +4,14 @@ title = "Undergraduate Teaching"
 
 ## Undergraduate Teaching
 
-* [(2nd) 2025-26]
+### 2025-26
+Subject | BSc | Term
+--------|-----|------
+Predictive Modeling | Data Science and Engineering | 2
+Statistics | Industrial Electronics and Automation Engineering | 2
 
 ### Past Teaching
 
-* Statistical Learning [(1st) 2021-22] (BSc Management and Technology)
+Subject | BSc | Year | Term
+--------|-----|------|-----
+Statistical Learning | Management and Technology | 21-22 | 1

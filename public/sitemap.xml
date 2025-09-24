@@ -26,6 +26,8 @@
   </url><url>
     <loc>http://localhost:1313/teaching/main/</loc>
   </url><url>
+    <loc>http://localhost:1313/teaching/thesis/</loc>
+  </url><url>
     <loc>http://localhost:1313/teaching/bsc-teaching/</loc>
   </url>
 </urlset>
