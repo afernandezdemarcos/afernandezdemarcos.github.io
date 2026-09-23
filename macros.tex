@@ -1,0 +1,22 @@
+% ============================================================================
+%  Shared macros: available in every page and note of the site.
+%  Plain LaTeX \newcommand's (pandoc expands them, also inside math).
+%
+%  Besides these, the site understands a few web-only commands:
+%    \avatar{/avatar.jpg}          round picture floating on the right
+%    \icon{fas fa-file-pdf}        Font Awesome icon
+%    \done                         ticked checkbox
+%    \begin{html} ... \end{html}   raw HTML (maps, videos, ...)
+% ============================================================================
+
+% Bracketed links used in publication lists: [doi] [pdf]
+\newcommand{\doi}[1]{[\href{https://doi.org/#1}{doi}]}
+\newcommand{\pdflink}[1]{[\href{#1}{pdf}]}
+
+% Maths
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\Sph}{\mathbb{S}}

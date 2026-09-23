@@ -1,0 +1,69 @@
+% ============================================================================
+%  Template for a note. Copy it to content/notes/<name>.tex; it is published
+%  at /notes/<name>/. It is also a normal LaTeX document: compile it with
+%  pdflatex/latexmk as usual.
+%
+%  Supported on the web: sections (numbered), theorem-like environments,
+%  equations with \label/\eqref, \ref, footnotes, lists, tables, figures
+%  (use .png/.jpg/.svg images next to the .tex file), \cite with a .bib file,
+%  and your own \newcommand's. TikZ pictures are not converted: export them
+%  to .svg/.png and \includegraphics them.
+% ============================================================================
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\R}{\mathbb{R}}
+
+\title{Title of the note}
+\author{Alberto Fernández-de-Marcos}
+\date{September 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+One or two sentences describing the note.
+\end{abstract}
+
+\tableofcontents
+
+\section{Introduction}\label{sec:intro}
+
+\begin{definition}\label{def:sphere}
+The unit hypersphere is $\mathbb{S}^q := \{\mathbf{x}\in\R^{q+1} : \|\mathbf{x}\| = 1\}$.
+\end{definition}
+
+\begin{theorem}[A named result]\label{thm:main}
+If $X$ is uniform on $\mathbb{S}^q$, then $\E[X] = 0$.
+\end{theorem}
+
+\begin{proof}
+By symmetry, $X$ and $-X$ have the same distribution, so
+\begin{equation}\label{eq:sym}
+  \E[X] = \E[-X] = -\E[X].
+\end{equation}
+\end{proof}
+
+\section{More}
+
+By Theorem~\ref{thm:main}, Definition~\ref{def:sphere} and \eqref{eq:sym}, see Section~\ref{sec:intro}.\footnote{A footnote.}
+\begin{align}
+  a &= b + c \label{eq:a}\\
+  d &= e
+\end{align}
+
+\end{document}

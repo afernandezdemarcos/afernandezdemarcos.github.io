@@ -1,0 +1,411 @@
+/* Site style: a hand-written replacement of the hugo-researcher theme. */
+
+:root {
+  --black: #222222;
+  --red: #dc3545;
+  --gray-border: #cccccc;
+  --gray-bg: #f8f8f8;
+  --page-width: 900px;
+  --avatar-size: 90px;
+  --font: "Inconsolata", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --font-size: 12pt;
+  --y-small: 0.6rem;
+  --y-medium: 1rem;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* Everything uses the site font, except MathJax's own elements. */
+:where(*:not(mjx-container):not(mjx-container *)) {
+  color: var(--black);
+  font-family: var(--font);
+  font-size: var(--font-size);
+  line-height: 1.2;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+}
+
+small {
+  font-size: 80%;
+}
+
+hr {
+  margin: 1rem 0;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.container {
+  width: 100%;
+  max-width: var(--page-width);
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* --- Header ------------------------------------------------------------ */
+
+#header {
+  margin-top: 3rem;
+}
+
+/* Brand on the left, menu on the right. When the menu does not fit next to
+   the brand it moves to its own line, and menu entries wrap as needed, so
+   any number of entries works. */
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 1.5rem;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  padding: 0.3125rem 0;
+  white-space: nowrap;
+  color: var(--black);
+  text-decoration: none;
+}
+
+.navbar-brand:hover {
+  text-decoration: underline;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+
+.nav-link {
+  padding: 0.5rem;
+  white-space: nowrap;
+  color: var(--red);
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.nav-link:first-child {
+  padding-left: 0;
+}
+
+.nav-link:last-child {
+  padding-right: 0;
+}
+
+.nav-sep {
+  margin: 0 0.25rem;
+}
+
+@media (max-width: 575.98px) {
+  .navbar {
+    flex-direction: column;
+  }
+
+  .navbar-brand {
+    white-space: normal;
+    text-align: center;
+  }
+
+  .navbar-nav {
+    justify-content: center;
+    margin-left: 0;
+  }
+}
+
+/* --- Content ----------------------------------------------------------- */
+
+#content a {
+  color: var(--red);
+  text-decoration: none;
+}
+
+#content a * {
+  color: var(--red);
+}
+
+#content a:hover {
+  text-decoration: underline;
+}
+
+#content p {
+  margin-top: 0;
+  margin-bottom: var(--y-small);
+}
+
+#content h1, #content h2, #content h3,
+#content h4, #content h5, #content h6 {
+  font-weight: bold;
+  margin: var(--y-medium) 0 var(--y-small) 0;
+}
+
+#content h1 { font-size: 1.8rem; }
+#content h2 { font-size: 1.6rem; }
+#content h3 { font-size: 1.4rem; }
+#content h4 { font-size: 1.2rem; }
+#content h5, #content h6 { font-size: 1rem; }
+
+#content h1 *, #content h2 *, #content h3 *, #content h4 * {
+  font-size: inherit;
+}
+
+#content img {
+  display: block;
+  margin: var(--y-medium) auto;
+  max-width: 100%;
+}
+
+#content figure {
+  margin: var(--y-medium) 0;
+}
+
+#content figcaption {
+  text-align: center;
+}
+
+#content figcaption * {
+  font-size: inherit;
+}
+
+#content .avatar {
+  margin: 0;
+}
+
+#content .avatar > img {
+  border-radius: 50%;
+  float: right;
+  margin: -8px 0 0 16px;
+  height: var(--avatar-size);
+  width: var(--avatar-size);
+  object-fit: cover;
+}
+
+#content ul, #content ol {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/* Numbered lists look like a bibliography: [1], [2], ... */
+#content ol {
+  counter-reset: list;
+  list-style: none;
+  padding-left: 2rem;
+}
+
+#content ol > li {
+  display: table-row;
+}
+
+#content ol > li::before {
+  content: "[" counter(list, decimal) "] ";
+  counter-increment: list;
+  display: table-cell;
+  text-align: right;
+  padding-right: 0.5em;
+}
+
+#content .container > ol, #content .footnotes > ol {
+  padding-left: 0;
+}
+
+#content ul {
+  list-style: inside;
+  padding-left: 2rem;
+}
+
+#content ul > li {
+  list-style-position: outside;
+  margin-left: 1em;
+}
+
+#content .container > ul {
+  padding-left: 0;
+}
+
+#content li > p {
+  margin-bottom: 0;
+}
+
+#content ul ul, #content ol ol, #content ul ol, #content ol ul {
+  margin-bottom: 0;
+}
+
+#content table {
+  border-collapse: collapse;
+  margin: var(--y-medium) auto;
+  width: 100%;
+}
+
+#content th, #content td {
+  border: 1px solid var(--gray-border);
+  padding: 6px 12px;
+  text-align: left !important;
+}
+
+#content th {
+  font-weight: bold;
+}
+
+#content tr:nth-child(2n) {
+  background-color: var(--gray-bg);
+}
+
+#content blockquote {
+  border-left: 4px solid;
+  font-style: italic;
+  margin: var(--y-medium) 0;
+  padding: 8px 8px;
+}
+
+#content code {
+  background-color: var(--gray-bg);
+  border: 1px solid var(--gray-border);
+  border-radius: 3px;
+  padding: 0 4px;
+}
+
+#content pre {
+  background-color: var(--gray-bg);
+  margin: var(--y-medium) 0;
+  padding: 8px;
+  overflow-x: auto;
+}
+
+#content pre code {
+  border: 0;
+  padding: 0;
+}
+
+#content iframe {
+  display: block;
+  margin: var(--y-medium) auto;
+  max-width: 100%;
+  border: 0;
+}
+
+#content input[type="checkbox"] {
+  margin: 0 0.3em 0 0;
+  vertical-align: middle;
+}
+
+/* Wide tables and formulas scroll instead of breaking the layout on phones */
+#content .container {
+  overflow-wrap: break-word;
+}
+
+mjx-container[display="true"] {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+/* --- Notes (standalone LaTeX documents) ---------------------------------- */
+
+#content .title-block {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+#content .title-block .title {
+  margin-bottom: 0.5rem;
+}
+
+#content .title-block .author,
+#content .title-block .date {
+  margin-bottom: 0.2rem;
+}
+
+#content .toc {
+  margin: 1rem 0 1.5rem;
+}
+
+#content .toc-title {
+  font-weight: bold;
+}
+
+#content .toc ul {
+  list-style: none;
+  padding-left: 1.5rem;
+}
+
+#content .toc > ul {
+  padding-left: 0;
+}
+
+#content .toc li {
+  margin-left: 0;
+}
+
+#content .abstract {
+  margin: 1rem 2rem;
+  text-align: left;
+}
+
+#content .abstract-title {
+  font-weight: bold;
+  text-align: center;
+}
+
+#content .theorem, #content .lemma, #content .proposition, #content .corollary,
+#content .definition, #content .example, #content .remark, #content .exercise,
+#content .proof {
+  margin: var(--y-medium) 0;
+}
+
+#content .theorem, #content .lemma, #content .proposition, #content .corollary {
+  border-left: 3px solid var(--red);
+  padding-left: 0.8rem;
+}
+
+#content .definition {
+  border-left: 3px solid var(--gray-border);
+  padding-left: 0.8rem;
+}
+
+#content .footnotes {
+  margin-top: 2rem;
+}
+
+#content .footnotes * {
+  font-size: 0.95rem;
+}
+
+/* --- Footer ------------------------------------------------------------ */
+
+#footer {
+  margin-bottom: 3rem;
+}
+
+#footer a {
+  color: var(--black);
+  text-decoration: none;
+}
+
+#footer a:hover {
+  text-decoration: underline;
+}
+
+#footer .social {
+  text-align: center;
+}
+
+#footer .social a {
+  margin: 0 0.15rem;
+}
