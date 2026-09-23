@@ -1,0 +1,13 @@
+$body$
+@@@SPLIT@@@
+$table-of-contents$
+@@@SPLIT@@@
+$pagetitle$
+@@@SPLIT@@@
+$title$
+@@@SPLIT@@@
+$for(author)$$author$$sep$ · $endfor$
+@@@SPLIT@@@
+$date$
+@@@SPLIT@@@
+$abstract$

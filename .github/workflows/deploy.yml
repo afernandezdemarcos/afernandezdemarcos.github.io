@@ -1,0 +1,56 @@
+# Builds the site from the LaTeX sources and publishes it on GitHub Pages.
+# - Push to main       -> build + deploy
+# - Push to any branch -> build only (checks that everything converts)
+# - Actions tab        -> "Run workflow" to rebuild/deploy manually
+name: Build and deploy site
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  PANDOC_VERSION: "3.11"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Install pandoc
+        run: |
+          wget -q -O "${{ runner.temp }}/pandoc.deb" \
+            "https://github.com/jgm/pandoc/releases/download/${PANDOC_VERSION}/pandoc-${PANDOC_VERSION}-1-amd64.deb"
+          sudo dpkg -i "${{ runner.temp }}/pandoc.deb"
+          pandoc --version | head -1
+
+      - name: Build site
+        run: python3 build.py
+
+      - name: Upload site
+        if: github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
